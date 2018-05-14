@@ -1,4 +1,5 @@
 // Create class Fighter
+
 class Fighter {
   constructor(name, power, health) {
     this.name = name;
